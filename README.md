@@ -1,4 +1,4 @@
-### Hi there! I'm Airat 👋 
+### Hi there! 👋 
 🔭 I’m currently working on my web-site
 
 <!--
